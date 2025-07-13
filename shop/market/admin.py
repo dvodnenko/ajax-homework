@@ -24,3 +24,9 @@ class MyStuffModelAdmin(admin.ModelAdmin):
     # def my_custom_action(self, request, queryset):
     #     for obj in queryset:
     #         obj.is_available = True
+
+
+# імітація додавання важкої логіки форматувальника помилок 
+
+print('niga')
+print('0010101000101')
